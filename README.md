@@ -43,9 +43,9 @@ I don't write about technology from the outside looking in. I write about it fro
 
 I'm available for freelance technical content writing — blog posts, documentation, tutorials, and developer-facing copy.
 
-📧 [your-email@domain.com]  
-💼 [Upwork Profile](https://www.upwork.com/freelancers/~yourprofile)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 [grebisz@gmail.com]  
+💼 [Upwork Profile](https://www.upwork.com/freelancers/~01e8905f20e52995e1)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gregoryrebisz/)
 
 ---
 
