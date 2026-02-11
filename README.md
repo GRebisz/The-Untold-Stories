@@ -34,8 +34,8 @@ I don't write about technology from the outside looking in. I write about it fro
 | 1 | *How Row-Level Transactions Saved Our Grid Performance (and Our Sanity)* | SaaS Blog Post | [→ Read](./articles/01-row-level-transactions.md) |
 | 2 | *How I Use AI as a Force Multiplier in My Development Workflow* | Tutorial / Opinion | [→ Read](./articles/02-ai-force-multiplier.md) |
 | 3 | *Hardcoded Secrets in Your CI/CD Pipeline: A Field Guide to Cleaning Up the Mess* | Technical Article | [→ Read](./articles/03-cicd-secrets-field-guide.md) |
-| 4 | Coming soon | Product Description | — |
-| 5 | Coming soon | Developer Documentation | — |
+| 4 | *Schema Drift Is Inevitable. Your Migration Strategy Shouldn't Be Manual.* | Product / Tool Description | [→ Read](./articles/04-schema-drift-migration-tool.md) |
+| ★ | *The Windows Service That Ate My Phone Bill* | Developer Narrative | [→ Read](./articles/05-windows-service-phone-bill.md) |
 
 ---
 
